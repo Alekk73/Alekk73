@@ -42,5 +42,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sntxDev&theme=transparent)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sntxDev&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntxDev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
