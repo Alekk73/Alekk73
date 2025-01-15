@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **sntxDev@gmail.com** & **https://www.linkedin.com/in/alexis-allende-2bb257215/**
 
+- Roadmap.sh profile **https://roadmap.sh/u/alek73**
+
 - 🌱 I’m currently learning **React.js, Java and Database**
 
 
