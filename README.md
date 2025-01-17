@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm sntxDev</h1>
+    <h1 align="center">Hi 👋, I'm Alekk</h1>
     <h3 align="center">A passionate self-taught front-end developer from Argentina.</h3>
 </div>
 
@@ -20,7 +20,7 @@
 
 - Roadmap.sh profile **https://roadmap.sh/u/alek73**
 
-- 🌱 I’m currently learning **React.js, Java and Database**
+- 🌱 I’m currently learning **React.js and Database(PostgreSQL)**
 
 
 <div align="left">
