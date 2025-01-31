@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📫 How to reach me **sntxDev@gmail.com** & **https://www.linkedin.com/in/alexis-allende-2bb257215/**
+- 📫 How to reach me **sntxDev@gmail.com** & **[https://www.linkedin.com/in/alexis-allende-2bb257215/](https://www.linkedin.com/in/alexis-allende/)**
 
 - Roadmap.sh profile **https://roadmap.sh/u/alek73**
 
