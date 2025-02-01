@@ -1,38 +1,32 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Alekk</h1>
-    <h3 align="center">A passionate self-taught front-end developer from Argentina.</h3>
-</div>
-
-
-<div id="badges" align="center">
-    <a href="https://twitter.com/sntxDev" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/sntxDev?logo=twitter&style=for-the-badge"
-            alt="Twitter" />
-    </a>
+    <h1 align="center">Hola 👋, Soy Alekk</h1>
+    <h3 align="center">Un apasionado desarrollador enfocado en backend autodidacta de Argentina.</h3>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+# 👨‍💻 Sobre mi :
 
-- 📫 How to reach me **sntxDev@gmail.com** & **[https://www.linkedin.com/in/alexis-allende-2bb257215/](https://www.linkedin.com/in/alexis-allende/)**
+¡Hola! Soy un desarrollador web enfocado en el backend con experiencia en JavaScript, TypeScript, Node.js, Express y React.
 
-- Roadmap.sh profile **https://roadmap.sh/u/alek73**
+💡 Aunque mi enfoque principal es el backend, estoy en constante aprendizaje para mejorar en diseño de interfaces y crear mejores experiencias de usuario.
 
-- 🌱 I’m currently learning **React.js and Database(PostgreSQL)**
+🎯 Me gusta resolver problemas complejos y desarrollar aplicaciones bien estructuradas... o mejor dicho, estoy trabajando para llegar a eso.
 
+# 📫 Contáctame en :
+- **<a href="https://www.linkedin.com/in/alexis-allende/"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">Alexis Allende</a>**
+- **<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aleallende07@gmail.com"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">Alexis Allende</a>**
+- Perfil Roadmap.sh **https://roadmap.sh/u/alek73**
 
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div>
-</div>
+# 💻 Tecnologías conocidas :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,express,postgres,react,tailwind," />
+  </a>
+</p>
+
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Alekk73&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alekk73&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekk73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
