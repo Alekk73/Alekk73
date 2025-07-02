@@ -9,6 +9,7 @@
 # 👨‍💻 Sobre mi :
 
 ¡Hola! Soy un desarrollador web enfocado en el backend con conocimientos en JavaScript, TypeScript, Node.js, Express y React.
+Actualmente, estoy aprendiendo NestJS para profundizar mis habilidades en el desarrollo de aplicaciones escalables y robustas, integrando herramientas modernas como TypeORM y PostgreSQL para la gestión eficiente de bases de datos relacionales.
 
 💡 Aunque mi enfoque principal es el backend, estoy en constante aprendizaje para mejorar en diseño de interfaces y crear mejores experiencias de usuario.
 
