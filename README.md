@@ -8,7 +8,7 @@
 
 # 👨‍💻 Sobre mi :
 
-¡Hola! Soy un desarrollador web enfocado en el backend con experiencia en JavaScript, TypeScript, Node.js, Express y React.
+¡Hola! Soy un desarrollador web enfocado en el backend con conocimientos en JavaScript, TypeScript, Node.js, Express y React.
 
 💡 Aunque mi enfoque principal es el backend, estoy en constante aprendizaje para mejorar en diseño de interfaces y crear mejores experiencias de usuario.
 
