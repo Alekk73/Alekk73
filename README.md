@@ -1,33 +1,34 @@
-<div id="header" align="center">
+<div align="center">
     <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" />
-    <h1 align="center">Hola 👋, Soy Alekk</h1>
-    <h3 align="center">Un apasionado desarrollador enfocado en backend autodidacta de Argentina.</h3>
+    <h1>Hola, soy Alekk</h1>
+    <h3>Desarrollador Backend</h3>
 </div>
 
 ---
 
-# 👨‍💻 Sobre mi :
+# Sobre mi :
 
-¡Hola! Soy un desarrollador web enfocado en el backend con conocimientos en JavaScript, TypeScript, Node.js, Express y React.
-Actualmente, estoy aprendiendo NestJS para profundizar mis habilidades en el desarrollo de aplicaciones escalables y robustas, integrando herramientas modernas como TypeORM y PostgreSQL para la gestión eficiente de bases de datos relacionales.
+Desarrollador backend con experiencia en JavaScript/TypeScript, Node.js y Express. Actualmente enfocado en aprender NestJS para construir aplicaciones más escalables. Tengo conocimientos en bases de datos PostgreSQL y experiencia complementaria en frontend con React.
 
-💡 Aunque mi enfoque principal es el backend, estoy en constante aprendizaje para mejorar en diseño de interfaces y crear mejores experiencias de usuario.
+- Busco oportunidades para crecer como desarrollador backend
+- Actualmente aprendiendo: NestJS, TypeORM
 
-🎯 Me gusta resolver problemas complejos y desarrollar aplicaciones bien estructuradas... o mejor dicho, estoy trabajando para llegar a eso.
+### 🛠 Tecnologías
 
-# 📫 Contáctame en :
-- **<a href="https://www.linkedin.com/in/alexis-allende/"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">Alexis Allende</a>**
-- **<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aleallende07@gmail.com"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">Alexis Allende</a>**
-- Perfil Roadmap.sh **https://roadmap.sh/u/alek73**
-
-# 💻 Tecnologías conocidas :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,express,postgres,react,tailwind," />
+    <img src="https://skillicons.dev/icons?i=git,github,js,ts,nodejs,express,nestjs,php,postgres,react,tailwind" />
   </a>
 </p>
 
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Alekk73&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alekk73&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekk73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📫 Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis_Allende-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexis-allende/)
+[![Email](https://img.shields.io/badge/Email-aleallende07@gmail.com-red?style=flat&logo=gmail)](mailto:aleallende07@gmail.com)
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alekk73&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekk73&layout=compact&langs_count=8&theme=dark"/>
+</div>
