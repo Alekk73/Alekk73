@@ -11,7 +11,7 @@
 Desarrollador backend con experiencia en JavaScript/TypeScript, Node.js y Express. Actualmente enfocado en aprender NestJS para construir aplicaciones más escalables. Tengo conocimientos en bases de datos PostgreSQL y experiencia complementaria en frontend con React.
 
 - Busco oportunidades para crecer como desarrollador backend
-- Actualmente aprendiendo: NestJS, TypeORM
+- Actualmente estoy aprendiendo Python e Ingeniería de Datos.
 
 ### 🛠 Tecnologías
 
